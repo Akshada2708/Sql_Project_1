@@ -3,7 +3,7 @@ This project is related to SQL which contains various tasks to be performed. It 
 # Problem Statement
 ABC Fashion is a leading retailer with a vast customer base and a team of dedicated sales
 representatives. They have a Sales Order Processing System that helps manage customer
-orders and interactions.
+orders and interactions. Kindly refer the pdf for details.
 # Tasks to be Performed
 1. Insert a new record in your Orders table.
 2. Add Primary key constraint for SalesmanId column in Salesman table. Add default
